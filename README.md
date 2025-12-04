@@ -59,10 +59,3 @@ Create a web or GUI interface
 
 Train on a larger dataset for increased accuracy
 
-🤝 Contribution
-
-Feel free to submit pull requests or suggest improvements.
-
-📜 License
-
-This project is open-source and available under the MIT License.
