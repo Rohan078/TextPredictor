@@ -26,7 +26,7 @@ LSTM Neural Network	Sequence learning
 Tokenizer & Pad Sequences	Text preprocessing
 📦 Dataset
 
-A Twitter dataset was used to train the model. Only 3000 cleaned lines of text were used to reduce processing time.
+A Wikipedia dataset was used to train the model. Only 3000 cleaned lines of text were used to reduce processing time.
 
 🔧 Model Architecture
 
